@@ -19,7 +19,7 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 🔹 **Languages:** Python, SQL, Bash  
 🔹 **AI & ML:** Scikit-Learn, TensorFlow, PyTorch  
 🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-🔹 **DevOps:** Git, Docker, Cloud Platforms  
+🔹 **DevOps:** Git, Cloud Platforms  
 🔹 **HPC & Scripting:** Linux, SLURM, Bash  
 
 ## 🌍 **Beyond Tech**  
