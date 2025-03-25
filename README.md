@@ -5,7 +5,7 @@
 I’m a **computational scientist** turned **data & AI enthusiast**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions.  
 
 ## 🔬 **From Science to AI & Data**  
-With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), and scientific research**. Now, I’m transitioning into the world of **Data Science & AI** to apply my analytical skills in impactful ways.  
+With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), and scientific research**. Now, I’m transitioning into the world of **Data Science & AI** to apply my analytical skills in impactful ways. Currently I am doing a Data Science and Machine Leaning full-time intensive bootcamp at [Ironahck](https://www.ironhack.com/de-en/data-science-machine-learning/remote)
 
 ### 🎓 **Currently Learning**  
 🧠 **Machine Learning & Deep Learning**  
