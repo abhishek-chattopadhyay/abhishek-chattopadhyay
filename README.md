@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek!  
 
-<!--
-**abhishek-chattopadhyay/abhishek-chattopadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Scientist | ML & AI Engineer | Ex-Computational Scientist**  
 
-Here are some ideas to get you started:
+I’m a **computational scientist** turned **data & AI enthusiast**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 **From Science to AI & Data**  
+With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), and scientific research**. Now, I’m transitioning into the world of **Data Science & AI** to apply my analytical skills in impactful ways.  
+
+### 🎓 **Currently Learning**  
+🧠 **Machine Learning & Deep Learning**  
+🤖 **Generative AI & Large Language Models**  
+📊 **Data Analytics & Visualization**  
+💾 **SQL & Databases (MySQL, PostgreSQL)**  
+☁️ **Cloud Computing & MLOps**  
+🛠 **Linux Scripting & HPC**  
+
+---
+
+## 🛠️ **Tech Stack & Skills**  
+🔹 **Languages:** Python, SQL, Bash  
+🔹 **AI & ML:** Scikit-Learn, TensorFlow, PyTorch  
+🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
+🔹 **DevOps:** Git, Docker, Cloud Platforms  
+🔹 **HPC & Scripting:** Linux, SLURM, Bash  
+
+---
+
+## 🌍 **Beyond Tech**  
+I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
+🏔️ **Hiking & Traveling**  
+📈 **Finance & Investing**  
+🎬 **Art & Cinema**  
+
+---
+
+## 🚀 **Looking for My Next Challenge!**  
+I’m actively looking for **Data Science, ML, or AI roles** in a **growth-driven company**. If you're working on something exciting and looking for **a problem-solver with a scientific mindset**, let's connect!  
+
+📫 **How to reach me:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/techyabhishek) | 📧 chattopadhyay@cpc.tu-darmstadt.de  
+
+---
+
+### ⚡ **Fun Fact:**  
+I love optimizing code and **tweaking ML models for maximum performance**—just like fine-tuning a scientific experiment! 🔬✨  
+
+---
+
+🚀 **Let’s build something amazing together!**  
