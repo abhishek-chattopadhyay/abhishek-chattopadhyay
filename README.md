@@ -4,8 +4,6 @@
 
 I’m a **computational scientist** turned **data & AI enthusiast**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions.  
 
----
-
 ## 🔬 **From Science to AI & Data**  
 With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), and scientific research**. Now, I’m transitioning into the world of **Data Science & AI** to apply my analytical skills in impactful ways.  
 
@@ -17,8 +15,6 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ☁️ **Cloud Computing & MLOps**  
 🛠 **Linux Scripting & HPC**  
 
----
-
 ## 🛠️ **Tech Stack & Skills**  
 🔹 **Languages:** Python, SQL, Bash  
 🔹 **AI & ML:** Scikit-Learn, TensorFlow, PyTorch  
@@ -26,15 +22,11 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 🔹 **DevOps:** Git, Docker, Cloud Platforms  
 🔹 **HPC & Scripting:** Linux, SLURM, Bash  
 
----
-
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
 🏔️ **Hiking & Traveling**  
 📈 **Finance & Investing**  
 🎬 **Art & Cinema**  
-
----
 
 ## 🚀 **Looking for My Next Challenge!**  
 I’m actively looking for **Data Science, ML, or AI roles** in a **growth-driven company**. If you're working on something exciting and looking for **a problem-solver with a scientific mindset**, let's connect!  
@@ -42,11 +34,7 @@ I’m actively looking for **Data Science, ML, or AI roles** in a **growth-drive
 📫 **How to reach me:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/techyabhishek) | 📧 chattopadhyay@cpc.tu-darmstadt.de  
 
----
-
 ### ⚡ **Fun Fact:**  
 I love optimizing code and **tweaking ML models for maximum performance**—just like fine-tuning a scientific experiment! 🔬✨  
-
----
 
 🚀 **Let’s build something amazing together!**  
