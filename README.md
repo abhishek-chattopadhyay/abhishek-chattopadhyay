@@ -24,8 +24,8 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 🔹 **HPC & Scripting:** Linux, SLURM, Bash
 
 ![Python](https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-2D2D2D?style=flat-square&logo=mysql&logoColor=blue)
-![Bash](https://img.shields.io/badge/Bash-2D2D2D?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=blue)
+![Bash](https://img.shields.io/badge/Bash-2D2D2D?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
