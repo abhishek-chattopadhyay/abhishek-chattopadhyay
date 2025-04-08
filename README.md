@@ -7,7 +7,7 @@ I’m a **computational scientist** turned **data & AI enthusiast**, passionate 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/techyabhishek)
 
 ## 🔬 **From Science to AI & Data**  
-With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), data analysiss and scientific research**. Now, I’m transitioning into the world of **Data Science & AI** to apply my analytical skills in impactful ways. Currently I am doing a **Data Science and Machine Leaning full-time intensive bootcamp at [Ironahck](https://www.ironhack.com/de-en/data-science-machine-learning/remote)**
+With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), data analysiss and scientific research**. Now, I’m transitioning into the world of **Data Science & AI** to apply my analytical skills in impactful ways. Currently I am doing a **Data Science and Machine Leaning full-time intensive bootcamp at [Ironhack](https://www.ironhack.com/de-en/data-science-machine-learning/remote)**
 
 ### 🎓 **Currently Learning**  
 🧠 **Machine Learning & Deep Learning**  
