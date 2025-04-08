@@ -26,16 +26,17 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ![Python](https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Bash](https://img.shields.io/badge/Bash-2D2D2D?style=for-the-badge&logo=gnubash&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2D2D2D?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-2D2D2D?style=for-the-badge&logo=numpy&logoColor=white)  
+
+![Pandas](https://img.shields.io/badge/Pandas-2D2D2D?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-2D2D2D?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![NumPy](https://img.shields.io/badge/NumPy-2D2D2D?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-2D2D2D?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2D2D2D?style=for-the-badge&logo=matplotlib&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D2D2D?style=for-the-badge&logo=python&logoColor=white)  
-![Polars](https://img.shields.io/badge/Polars-2D2D2D?style=for-the-badge&logo=python&logoColor=4B8BBE)  
-![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)  
-![Cloud Platforms](https://img.shields.io/badge/Cloud_Platforms-2D2D2D?style=for-the-badge&logo=cloudflare&logoColor=F38020) 
-![Linux](https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=FCC624)  
-![SLURM](https://img.shields.io/badge/SLURM-2D2D2D?style=for-the-badge&logo=slurm&logoColor=00599C)  
-![Bash](https://img.shields.io/badge/Bash-2D2D2D?style=for-the-badge&logo=gnubash&logoColor=white)  
+
+![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🌍 **Beyond Tech**  
