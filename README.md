@@ -24,44 +24,38 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 🔹 **HPC & Scripting:** Linux, SLURM, Bash
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=blue" alt="SQL Badge"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Badge"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
+  <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Pandas-2D2D2D?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
   </a>
-  <a href="https://pola-rs.github.io/polars-book/" target="_blank">
+  <a href="https://pola-rs.github.io/polars-book/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Polars-2D2D2D?style=for-the-badge&logo=python&logoColor=4B8BBE" alt="Polars Badge"/>
   </a>
-  <a href="https://numpy.org/" target="_blank">
+  <a href="https://numpy.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/NumPy-2D2D2D?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
+  <a href="https://scikit-learn.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Scikit--learn-2D2D2D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn Badge"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank">
+  <a href="https://matplotlib.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Matplotlib-2D2D2D?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
+  <a href="https://seaborn.pydata.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Seaborn-2D2D2D?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git Badge"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank">
+  <a href="https://streamlit.io/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--Learn-2D2D2D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn Badge"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-2D2D2D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow Badge"/>
   </a>
 </p>
 
