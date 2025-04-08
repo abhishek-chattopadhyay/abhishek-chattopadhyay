@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist | ML & AI Engineer | Ex-Computational Scientist**  
 
-I’m a **computational scientist** turned **data & AI enthusiast**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **python, data analytics, mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions. \\
+I’m a **computational scientist** turned **data & AI enthusiast**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **python, data analytics, mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/techyabhishek)
 
