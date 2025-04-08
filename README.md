@@ -35,6 +35,15 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+<p align="center">
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--Learn-2D2D2D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn Badge"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-2D2D2D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow Badge"/>
+  </a>
+</p>
+
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
 🏔️ **Hiking & Traveling**  
