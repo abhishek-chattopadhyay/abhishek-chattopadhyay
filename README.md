@@ -22,53 +22,19 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Polars  
 🔹 **DevOps:** Git, Cloud Platforms  
 🔹 **HPC & Scripting:** Linux, SLURM, Bash
-
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=blue" alt="SQL"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-2D2D2D?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>&nbsp;
-  <a href="https://pola-rs.github.io/polars-book/">
-    <img src="https://img.shields.io/badge/Polars-2D2D2D?style=for-the-badge&logo=python&logoColor=4B8BBE" alt="Polars"/>
-  </a>&nbsp;
-  <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-2D2D2D?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/Scikit--learn-2D2D2D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn"/>
-  </a>&nbsp;
-  <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-2D2D2D?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  </a>&nbsp;
-  <a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-2D2D2D?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  </a>&nbsp;
-  <a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  </a>
-</p>
-
-</p>
+![Python](https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-2D2D2D?style=for-the-badge&logo=gnubash&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2D2D2D?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2D2D2D?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-2D2D2D?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2D2D2D?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D2D2D?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-2D2D2D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2D2D2D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) 
+![PyTorch](https://img.shields.io/badge/PyTorch-2D2D2D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
 
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
