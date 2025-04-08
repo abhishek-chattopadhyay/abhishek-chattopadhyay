@@ -30,8 +30,8 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ![Polars](https://img.shields.io/badge/Polars-2D2D2D?style=for-the-badge&logo=python&logoColor=4B8BBE)
 ![NumPy](https://img.shields.io/badge/NumPy-2D2D2D?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-2D2D2D?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2D2D2D?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-2D2D2D?style=for-the-badge&logo=python&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2D2D2D?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D2D2D?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
