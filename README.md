@@ -19,7 +19,11 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 🔹 **AI & ML:** Scikit-Learn, TensorFlow, PyTorch  
 🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Polars  
 🔹 **DevOps:** Git, Cloud Platforms  
-🔹 **HPC & Scripting:** Linux, SLURM, Bash  
+🔹 **HPC & Scripting:** Linux, SLURM, Bash
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
