@@ -38,7 +38,7 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 
 ## 📈 **Github Stats**
 ![](https://github-readme-stats.vercel.app/api?username=abhishek-chattopadhyay&show_icons=true&theme=radical&hide_title=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-chattopadhyay&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-chattopadhyay&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-chattopadhyay&layout=compact&theme=tokyonight)
 
 ## 🌍 **Beyond Tech**  
