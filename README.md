@@ -39,6 +39,8 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ## 📈 **Github Stats**
 ![](https://github-readme-stats.vercel.app/api?username=abhishek-chattopadhyay&show_icons=true&theme=radical&hide_title=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
 🏔️ **Hiking & Traveling**  
