@@ -22,10 +22,6 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Polars  
 🔹 **DevOps:** Git, Cloud Platforms  
 🔹 **HPC & Scripting:** Linux, SLURM, Bash
-
-## 📈 **Github Stats**
-![](https://github-readme-stats.vercel.app/api?username=abhishek-chattopadhyay&show_icons=true&theme=radical)
-
 ![Python](https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -39,6 +35,9 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2D2D2D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2D2D2D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
+
+## 📈 **Github Stats**
+![](https://github-readme-stats.vercel.app/api?username=abhishek-chattopadhyay&show_icons=true&theme=radical)
 
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
