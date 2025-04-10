@@ -37,7 +37,7 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
 
 ## 📈 **Github Stats**
-![](https://github-readme-stats.vercel.app/api?username=abhishek-chattopadhyay&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=abhishek-chattopadhyay&show_icons=true&theme=radical&hide_title=true)
 
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
