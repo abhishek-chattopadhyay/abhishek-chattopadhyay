@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Abhishek!  
 
-🚀 **Data Scientist | Financial Trader | Ex-Computational Scientist**  
+🚀 **Computational Physical Chemist | Data Scientist | Fiannce Enthusiast**  
 
-I’m a **computational scientist** turned **data & AI enthusiast**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **python, data analytics, mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions. 
+I’m a **computational physical chemist** and **data scientist**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **python, data analytics, mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/techyabhishek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/a-chattopadhyay)
 
-## 🔬 **From Science to AI & Data**  
-With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), data analysiss and scientific research**. Now, I’m transitioning into the world of **Data Science & AI** to apply my analytical skills in impactful ways. Currently I am doing a **Data Science and Machine Leaning full-time intensive bootcamp at [Ironhack](https://www.ironhack.com/de-en/data-science-machine-learning/remote)**.
+## 🔬 **Amalgamation of Basic Science with AI & Data**  
+With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), data analysiss and scientific research**. Now, I’m transitioning into the world of **ML & AI** to apply my analytical skills in impactful ways. Recently I have completed a **Data Science and Machine Leaning full-time intensive bootcamp at [Ironhack](https://www.ironhack.com/de-en/data-science-machine-learning/remote)**.
 
-### 🎓 **Currently Learning**  
+### 🎓 **Data Science Skills**  
 🧠 **Machine Learning & Deep Learning**  
 🤖 **Generative AI & Large Language Models**  
 📊 **Advanced Data Analytics & Visualization**  
 💾 **SQL & Databases (MySQL)**  
 ☁️ **Cloud Computing & MLOps**  
 
-## 🛠️ **Tech Stack & Skills**  
+## 🛠️ **Tech Stack & Skills**
+🔹 **Science:** Computational Chemistry, Physical Chemistry, Statistical Mechanics, Numerical Simulation
 🔹 **Languages:** Python, SQL, Bash  
 🔹 **AI & ML:** Scikit-Learn, TensorFlow, PyTorch  
 🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Polars  
@@ -49,7 +50,7 @@ I’m an **honest, growth-oriented person** who loves **learning, problem-solvin
 🎬 **Art & Cinema**  
 
 ## 🚀 **Looking for My Next Challenge!**  
-I’m actively looking for **Data Science, ML, or AI roles** in a **growth-driven company**. If you're working on something exciting and looking for **a problem-solver with a scientific mindset**, let's connect!  
+I’m actively looking for **Data Science, ML, or AI roles** in a **growth-driven institute or company**. If you're working on something exciting and looking for **a problem-solver with a scientific mindset**, let's connect!  
 
 📫 **How to reach me:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/techyabhishek) | 📧 chattopadhyay@cpc.tu-darmstadt.de  
