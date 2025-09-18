@@ -7,7 +7,7 @@ I’m a **computational physical chemist** and **data scientist**, passionate ab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/a-chattopadhyay)
 
 ## 🔬 **Amalgamation of Basic Science with AI & Data**  
-With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), data analysiss and scientific research**. Now, I’m transitioning into the world of **ML & AI** to apply my analytical skills in impactful ways. Recently I have completed a **Data Science and Machine Leaning full-time intensive bootcamp at [Ironhack](https://www.ironhack.com/de-en/data-science-machine-learning/remote)**.
+With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), data analysis and scientific research**. Now, I’m transitioning into the world of **ML & AI** to apply my analytical skills in impactful ways. Recently I have completed a **Data Science and Machine Leaning full-time intensive bootcamp at [Ironhack](https://www.ironhack.com/de-en/data-science-machine-learning/remote)**.
 
 ### 🎓 **Data Science Skills**  
 🧠 **Machine Learning & Deep Learning**  
