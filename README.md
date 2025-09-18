@@ -17,7 +17,7 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ☁️ **Cloud Computing & MLOps**  
 
 ## 🛠️ **Tech Stack & Skills**
-🔹 **Science:** Computational Chemistry, Physical Chemistry, Statistical Mechanics, Numerical Simulation
+🔹 **Science:** Computational Chemistry, Physical Chemistry, Statistical Mechanics, Numerical Simulation  
 🔹 **Languages:** Python, SQL, Bash  
 🔹 **AI & ML:** Scikit-Learn, TensorFlow, PyTorch  
 🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Polars  
