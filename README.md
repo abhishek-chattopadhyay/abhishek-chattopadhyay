@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek!  
 
-🚀 **Computational Physical Chemist | Data Scientist | Fiannce Enthusiast**  
+🚀 **Computational Physical Chemist | Data Scientist | Finance Enthusiast**  
 
 I’m a **computational physical chemist** and **data scientist**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **python, data analytics, mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions. 
 
