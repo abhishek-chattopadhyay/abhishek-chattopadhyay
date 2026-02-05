@@ -38,11 +38,6 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2D2D2D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
 
-## 📈 **Github Stats**
-![](https://github-readme-stats.vercel.app/api?username=abhishek-chattopadhyay&show_icons=true&theme=radical&hide_title=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-chattopadhyay&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-chattopadhyay&layout=compact&theme=tokyonight)
-
 ## 🌍 **Beyond Tech**  
 I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
 🏔️ **Hiking & Traveling**  
