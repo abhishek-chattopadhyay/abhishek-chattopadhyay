@@ -1,28 +1,43 @@
-# 👋 Hi, I'm Abhishek!  
+# 👋 Hi, I'm Abhishek
 
-🚀 **Computational Physical Chemist | Data Scientist | Finance Enthusiast**  
+**Model Steward @ Maastricht University**  
+*Applied Machine Learning | Data Science | Scientific Computing*
 
-I’m a **computational physical chemist** and **data scientist**, passionate about leveraging **machine learning, AI, and data science** to solve real-world problems. With a strong foundation in **python, data analytics, mathematics, HPC, and research**, I’m on a journey to build scalable, data-driven solutions. 
+I work on the **design, validation, and stewardship of analytical and machine learning models** in research-driven environments. My focus is on ensuring models are **robust, interpretable, reproducible, and fit for decision-making**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/a-chattopadhyay)
+With a background in **computational physical chemistry** and **data science**, I bring a strong scientific and quantitative foundation to **end-to-end model lifecycles**, from data understanding to deployment and governance.
 
-## 🔬 **Amalgamation of Basic Science with AI & Data**  
-With **3+ years of experience** as a **Computational Physical Chemist**, I’ve worked on **data-intensive simulations, high-performance computing (HPC), data analysis and scientific research**. Now, I’m transitioning into the world of **ML & AI** to apply my analytical skills in impactful ways. Recently I have completed a **Data Science and Machine Leaning full-time intensive bootcamp at [Ironhack](https://www.ironhack.com/de-en/data-science-machine-learning/remote)**.
+🔗 [LinkedIn](https://www.linkedin.com/in/a-chattopadhyay)
 
-### 🎓 **Data Science Skills**  
-🧠 **Machine Learning & Deep Learning**  
-🤖 **Generative AI & Large Language Models**  
-📊 **Advanced Data Analytics & Visualization**  
-💾 **SQL & Databases (MySQL)**  
-☁️ **Cloud Computing & MLOps**  
+---
 
-## 🛠️ **Tech Stack & Skills**
-🔹 **Science:** Computational Chemistry, Physical Chemistry, Statistical Mechanics, Numerical Simulation  
-🔹 **Languages:** Python, SQL, Bash  
-🔹 **AI & ML:** Scikit-Learn, TensorFlow, PyTorch  
-🔹 **Data:** Pandas, NumPy, Matplotlib, Seaborn, Polars  
-🔹 **DevOps:** Git, Cloud Platforms  
-🔹 **HPC & Scripting:** Linux, SLURM, Bash
+## 🔍 Current Focus
+- Model lifecycle management & governance  
+- Model validation, monitoring & documentation  
+- Reproducible and responsible AI practices  
+- Bridging research models with real-world decision processes  
+
+---
+
+## 🧠 Core Expertise
+
+**Modeling & Analytics**
+- Machine Learning & Statistical Modeling  
+- Feature engineering & model evaluation  
+- Data analysis & visualization  
+- Interpretability & model risk awareness  
+
+**Technical Stack**
+- **Languages:** Python, SQL, Bash  
+- **ML/Data:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow  
+- **Systems:** Linux, Git, HPC (SLURM)  
+- **Databases & Platforms:** MySQL, cloud-based workflows  
+
+**Scientific Computing**
+- Computational & Physical Chemistry  
+- Numerical simulations  
+- Statistical mechanics  
+- High-performance computing  
 
 ![Python](https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=blue)
@@ -37,20 +52,19 @@ With **3+ years of experience** as a **Computational Physical Chemist**, I’ve 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2D2D2D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2D2D2D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
+---
 
-## 🌍 **Beyond Tech**  
-I’m an **honest, growth-oriented person** who loves **learning, problem-solving, and collaboration**. Outside of tech, I’m passionate about:  
-🏔️ **Hiking & Traveling**  
-📈 **Finance & Investing**  
-🎬 **Art & Cinema**  
+## 🎓 Background
+- **Model Steward**, Maastricht University  
+- **Computational Physical Chemist** (3+ years, large-scale simulations & data analysis)  
+- **Data Science & Machine Learning Bootcamp**, Ironhack  
 
-## 🚀 **Looking for My Next Challenge!**  
-I’m actively looking for **Data Science, ML, or AI roles** in a **growth-driven institute or company**. If you're working on something exciting and looking for **a problem-solver with a scientific mindset**, let's connect!  
+---
 
-📫 **How to reach me:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/techyabhishek) | 📧 chattopadhyay@cpc.tu-darmstadt.de  
+## 🌱 Interests
+- Applied AI in research, policy & governance  
+- Quantitative finance & investing  
+- Hiking, travel, cinema  
 
-### ⚡ **Fun Fact:**  
-I love optimizing code and **tweaking ML models for maximum performance**—just like fine-tuning a scientific experiment! 🔬✨  
-
-🚀 **Let’s build something amazing together!**  
+📫 **Contact**  
+[LinkedIn](https://www.linkedin.com/in/a-chattopadhyay)
