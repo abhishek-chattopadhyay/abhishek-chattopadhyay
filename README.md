@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek
 
-I am working as a Model Steward for the ![VHP4Safety](https://platform.vhp4safety.nl/) project at the Maastricht University in the Netherlands. My job is to make toxicological models open source using FAIR principles. Currently I am building a platform named ![ROBOT (Research Object Builder for Open Toxicology)]() which will help modeller to deposit their models with rich metadata and make them open source.
+I am working as a Model Steward for the [VHP4Safety](https://platform.vhp4safety.nl/) project at the Maastricht University in the Netherlands. My job is to make toxicological models open source using FAIR principles. Currently I am building a platform named [ROBOT (Research Object Builder for Open Toxicology)](https://github.com/abhishek-chattopadhyay/robot) which will help modeller to deposit their models with rich metadata and make them open source.
 
 ## 🧠 Core Expertise
 
@@ -36,7 +36,6 @@ I am working as a Model Steward for the ![VHP4Safety](https://platform.vhp4safet
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2D2D2D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2D2D2D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
----
 
 📫 **Contact**  
 [LinkedIn](https://www.linkedin.com/in/a-chattopadhyay)
