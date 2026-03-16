@@ -1,21 +1,6 @@
 # 👋 Hi, I'm Abhishek
 
-**Model Steward @ Maastricht University**  
-*Applied Machine Learning | Data Science | Scientific Computing*
-
-I work on the **design, validation, and stewardship of analytical and machine learning models** in research-driven environments. My focus is on ensuring models are **robust, interpretable, reproducible, and fit for decision-making**.
-
-With a background in **computational physical chemistry** and **data science**, I bring a strong scientific and quantitative foundation to **end-to-end model lifecycles**, from data understanding to deployment and governance.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/a-chattopadhyay)
-
----
-
-## 🔍 Current Focus
-- Model lifecycle management & governance  
-- Model validation, monitoring & documentation  
-- Reproducible and responsible AI practices  
-- Bridging research models with real-world decision processes  
+I am working as a Model Steward for the VHP4Safety project at the Maastricht University in the Netherlands. My job is to make toxicological models open source using FAIR principles. Currently I am building a platform named ROBOT (Research Object Builder for Open Toxicology) which will help modeller to deposit their models with rich metadata and make them open source.
 
 ---
 
@@ -25,16 +10,17 @@ With a background in **computational physical chemistry** and **data science**, 
 - Machine Learning & Statistical Modeling  
 - Feature engineering & model evaluation  
 - Data analysis & visualization  
-- Interpretability & model risk awareness  
+- Interpretability & model risk awareness
+- Data and Model Stewardship
 
 **Technical Stack**
-- **Languages:** Python, SQL, Bash  
-- **ML/Data:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow  
-- **Systems:** Linux, Git, HPC (SLURM)  
+- **Languages:** Python, SQL, Bash
+- **AI/ML:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Langchain, LangGraph
+- **Systems:** Linux, Git, HPC (SLURM)
 - **Databases & Platforms:** MySQL, cloud-based workflows  
 
 **Scientific Computing**
-- Computational & Physical Chemistry  
+- Computational Physical Chemistry
 - Numerical simulations  
 - Statistical mechanics  
 - High-performance computing  
@@ -53,18 +39,6 @@ With a background in **computational physical chemistry** and **data science**, 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2D2D2D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032)
 ---
-
-## 🎓 Background
-- **Model Steward**, Maastricht University  
-- **Computational Physical Chemist** (3+ years, large-scale simulations & data analysis)  
-- **Data Science & Machine Learning Bootcamp**, Ironhack  
-
----
-
-## 🌱 Interests
-- Applied AI in research, policy & governance  
-- Quantitative finance & investing  
-- Hiking, travel, cinema  
 
 📫 **Contact**  
 [LinkedIn](https://www.linkedin.com/in/a-chattopadhyay)
