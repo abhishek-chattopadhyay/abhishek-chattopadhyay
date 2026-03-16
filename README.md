@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Abhishek
 
-I am working as a Model Steward for the VHP4Safety project at the Maastricht University in the Netherlands. My job is to make toxicological models open source using FAIR principles. Currently I am building a platform named ROBOT (Research Object Builder for Open Toxicology) which will help modeller to deposit their models with rich metadata and make them open source.
-
----
+I am working as a Model Steward for the ![VHP4Safety](https://platform.vhp4safety.nl/) project at the Maastricht University in the Netherlands. My job is to make toxicological models open source using FAIR principles. Currently I am building a platform named ![ROBOT (Research Object Builder for Open Toxicology)]() which will help modeller to deposit their models with rich metadata and make them open source.
 
 ## 🧠 Core Expertise
 
